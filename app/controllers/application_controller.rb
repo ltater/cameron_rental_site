@@ -7,4 +7,7 @@ class ApplicationController < ActionController::Base
 	def index
 	end
 
+	def available_listings
+	end
+
 end
