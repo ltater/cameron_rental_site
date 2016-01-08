@@ -22,3 +22,7 @@
      width: 75%;
      margin: 0 auto;
 }
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+	margin: auto;
+}
